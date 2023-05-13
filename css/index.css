@@ -16,10 +16,14 @@ li{
     margin: 1.5em;
     transition: color .2s, transform .2s;
     font-size: 40px;
+    border: solid;
+    padding: .5em;
+    border-radius: 20px;
+    width: 40%;
 }
 
 
-li:hover, li a:hover{
+li:hover, li:hover a{
     color: rgb(255, 109, 37);
     transform: translate(0px, -0.25em)
 }
