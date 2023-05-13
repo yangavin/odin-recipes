@@ -1,0 +1,12 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(124, 255, 152);
+    border-radius: 1em;
+    padding: 20px;
+    border: solid;
+    margin: 1em;
+}
